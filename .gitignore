@@ -18,3 +18,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Repomix logs
+*-repomix.xml.txt
