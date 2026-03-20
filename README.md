@@ -4,6 +4,12 @@ A comprehensive visual and textual documentation of 21 essential agentic design 
 
 ## 📚 What's Included
 
+### Here is a description with links for every pattern grouped as learning path for Agentic Engineering
+
+- [Agentic Development learning path](agentic-development-learning-path.md)
+
+---
+
 This repository contains three main types of documentation for each pattern:
 
 ### 🔷 Mermaid Diagrams (`/mermaid-diagrams`)
